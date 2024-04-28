@@ -1,0 +1,7 @@
+venv/
+00_Shared/*
+!00_Shared/.required_dir
+01_DocumentLoader/document_sources/markdown/*
+!01_DocumentLoader/document_sources/markdown/.required_dir
+01_DocumentLoader/document_sources/pdfs/*
+!01_DocumentLoader/document_sources/pdfs/.required_dir

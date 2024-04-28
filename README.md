@@ -1,1 +1,1 @@
-# ai-snippets
+# llm-snippets

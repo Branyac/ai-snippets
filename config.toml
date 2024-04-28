@@ -1,0 +1,7 @@
+[COMMON]
+CHROMA_DATABASE_PATH = ./00_Shared/vector_db/chroma/
+; Set DEVICE to 'cpu' for non-Nvidia GPUs to disable Acceleration
+DEVICE = cuda:0
+;EMBEDDINGS_MODEL = sentence-transformers/LaBSE
+EMBEDDINGS_MODEL = sentence-transformers/all-MiniLM-L6-v2
+;EMBEDDINGS_MODEL = PlanTL-GOB-ES/roberta-large-bne
